@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c141aa37-fc2f-4271-9e18-2e5cee54013c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ViniciusNNascimento"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ViniciusNNascimento/MaratonaJava.git",
+    "accountId": "371b51a1-1a38-43a7-9252-530be8794a63"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2vP54Wr4DQFLjha0lqPk8yQ36NM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AnimeTest01.executor": "Run",
+    "Application.Aula01.executor": "Run",
+    "Application.Aula02TiposPrimitivos.executor": "Run",
+    "Application.Aula03TiposPrimitivosExercicios.executor": "Run",
+    "Application.Aula04Operadores.executor": "Run",
+    "Application.Aula05EstruturasCondicionais.executor": "Run",
+    "Application.Aula05EstruturasCondicionais01.executor": "Run",
+    "Application.Aula05EstruturasCondicionais04.executor": "Run",
+    "Application.Aula05EstruturasCondicionais05.executor": "Run",
+    "Application.Aula05EstruturasCondicionais06.executor": "Run",
+    "Application.Aula06EstruturaRepeticao01.executor": "Run",
+    "Application.Aula06EstruturaRepeticao02.executor": "Run",
+    "Application.CalculadoraTest.executor": "Run",
+    "Application.CalculadoraTest04.executor": "Run",
+    "Application.CalculadoraTest05.executor": "Run",
+    "Application.CarroTest01.executor": "Run",
+    "Application.EstudanteTest01.executor": "Run",
+    "Application.EstudanteTest02.executor": "Run",
+    "Application.FuncionarioTest01.executor": "Run",
+    "Application.JogadorTest01.executor": "Run",
+    "Application.OlaSungVin.executor": "Run",
+    "Application.PessoaTest01.executor": "Run",
+    "Application.academy.devdojo.maratonajava.javacore.Fmodificadorestico.test.AnimeTest01.executor": "Run",
+    "Application.academy.devdojo.maratonajava.javacore.dominio.blocosinicializacao.test.AnimeTest01.executor": "Run",
+    "Application.academy.devdojo.maratonajava.javacore.modificadorestico.test.AnimeTest01.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ViniciusNascimento/OneDrive - Prado Calçados/Programação/maratona-java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="academy.devdojo.maratonajava.javacore.modificadorestico.dominio" />
+      <recent name="academy.devdojo.maratonajava" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.JogadorTest01">
+    <configuration name="AnimeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Csobrecargametodos.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarroTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Fmodificadorestico.test.CarroTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Fmodificadorestico.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JogadorTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Gassociacao.test.JogadorTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Gassociacao.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="academy.devdojo.maratonajava.javacore.Eblocosinicializacao.test.AnimeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Eblocosinicializacao.test.AnimeTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Eblocosinicializacao.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="academy.devdojo.maratonajava.javacore.Fmodificadorestico.test.AnimeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Fmodificadorestico.test.AnimeTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Fmodificadorestico.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JogadorTest01" />
+        <item itemvalue="Application.academy.devdojo.maratonajava.javacore.Fmodificadorestico.test.AnimeTest01" />
+        <item itemvalue="Application.academy.devdojo.maratonajava.javacore.Eblocosinicializacao.test.AnimeTest01" />
+        <item itemvalue="Application.AnimeTest01" />
+        <item itemvalue="Application.CarroTest01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c141aa37-fc2f-4271-9e18-2e5cee54013c" name="Changes" comment="" />
+      <created>1744033683142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744033683142</updated>
+    </task>
+    <servers />
+  </component>
+</project>
